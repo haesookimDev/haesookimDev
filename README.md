@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Haesoo Kim
 - 👀 I’m interested in AI
-- 🌱 I’m currently learning and Researching NLP Preprocessing(end)
+- 🌱 Researching NLP Preprocessing(end)
 - 👀 studying AI based malware detection and classification with XAI(eXplainable AI)
 
 <!---
