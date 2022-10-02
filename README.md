@@ -18,7 +18,7 @@
   
 </div>  
   
-<div align=center><h1>📚 Sub & studying STACKS</h1></div>
+<div align=center><h1>📚 Sub & Studying STACKS</h1></div>
   
 <div align=center> 
   
