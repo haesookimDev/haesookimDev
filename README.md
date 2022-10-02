@@ -5,6 +5,16 @@
 - 👀 I’m interested in AI
 - 🌱 Researching NLP Preprocessing(end)
 - 👀 studying AI based malware detection and classification with XAI(eXplainable AI)
+
+<div align=center><h1>📚 STACKS</h1></div>
+
+<div align=center> 
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
+  <img src="https://img.shields.io/badge/PyTorch&nbspLightning-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
+  <br>
+</div>
+
 <div align="center">
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=haesookimDev&count_private=true&show_icons=true)
