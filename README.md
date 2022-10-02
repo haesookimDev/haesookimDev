@@ -6,8 +6,8 @@
 - 🌱 Researching NLP Preprocessing(end)
 - 👀 studying AI based malware detection and classification with XAI(eXplainable AI)
 
-<div align=center><h1>📚 STACKS</h1></div>
-
+<div align=center><h1>📚 Main STACKS</h1></div>
+  
 <div align=center> 
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
   <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=Tensorflow&logoColor=white">
@@ -15,6 +15,12 @@
   <img src="https://img.shields.io/badge/PyTorch Lightning-792EE5?style=for-the-badge&logo=PyTorchLightning&logoColor=white"> 
   <img src="https://img.shields.io/badge/scikit-learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
   <br>
+  
+</div>  
+  
+<div align=center><h1>📚 Sub STACKS</h1></div>
+  
+<div align=center> 
   
   <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
@@ -37,8 +43,8 @@
   
   <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
   <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> 
-</div>
-
+</div> 
+  
 <div align="center">
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=haesookimDev&count_private=true&show_icons=true)
