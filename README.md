@@ -2,7 +2,7 @@
 
 - 👀 studying AI based malware detection and classification with XAI(eXplainable AI)
 
-<div align=center><h1>📚 Main STACKS</h1></div>
+<div align=center><h3>📚 Main STACKS</h1></div>
   
 <div align=center> 
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
@@ -14,7 +14,7 @@
   
 </div>  
   
-<div align=center><h1>📚 Sub & Studying STACKS</h1></div>
+<div align=center><h3>📚 Sub & Studying STACKS</h1></div>
   
 <div align=center> 
   
@@ -36,7 +36,7 @@
   <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> 
 </div>  
 
-<div align=center><h1>📚 I've done before</h1></div>
+<div align=center><h3>📚 I've done before</h1></div>
   
 <div align=center> 
   
