@@ -36,7 +36,7 @@
   <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> 
 </p>  
 
-<div align=center><h3>📚 I've done before</h1></div>
+<div align=center><h3>📚 I've used before</h1></div>
   
 <p align=center> 
   
