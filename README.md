@@ -50,9 +50,9 @@
   <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
   <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white">
   <br>
-</div>  
+</p>  
    
-<p align="center">  
+<div align="center">  
   
   
   
