@@ -4,7 +4,7 @@
 
 <div align=center><h3>📚 Main STACKS</h1></div>
   
-<div align=center> 
+<p align=center> 
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
   <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=Tensorflow&logoColor=white">
   <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
@@ -12,11 +12,11 @@
   <img src="https://img.shields.io/badge/scikit-learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
   <br>
   
-</div>  
+</p>  
   
 <div align=center><h3>📚 Sub & Studying STACKS</h1></div>
   
-<div align=center> 
+<p align=center> 
   
   <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
@@ -34,11 +34,11 @@
   
   <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
   <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> 
-</div>  
+</p>  
 
 <div align=center><h3>📚 I've done before</h1></div>
   
-<div align=center> 
+<p align=center> 
   
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
@@ -52,7 +52,7 @@
   <br>
 </div>  
    
-<div align="center">  
+<p align="center">  
   
   
   
