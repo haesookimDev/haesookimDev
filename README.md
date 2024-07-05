@@ -1,6 +1,7 @@
 
 
-- 👀 studying AI based malware detection and classification with XAI(eXplainable AI)
+- 현재 악성코드에 Few-Shot Learning을 적용하는 기법에 대한 연구를 진행중입니다.
+- 프로젝트로 사용자에게 여행지를 추천하는 서비스 MLOps를 개발중입니다. 
 
 <div align=center><h3>📚 Main STACKS</h1></div>
   
