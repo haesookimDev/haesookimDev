@@ -1,7 +1,4 @@
-# 공부한 것을 휘갈기는 블로그입니다. 
-# (https://lively-here.tistory.com/)
-# 연구/ 프로젝트 포트폴리오 노션
-# (https://scratched-helmet-eca.notion.site/d7a9cdf4da70422eac8f450a060ecc0b?pvs=4)
+
 - 현재 악성코드에 Few-Shot Learning을 적용하는 기법에 대한 연구를 진행중입니다.
 - 프로젝트로 사용자에게 여행지를 추천하는 서비스 MLOps를 개발중입니다.
 - Flutter를 이용한 여행관련 서비스 프론트도 진행중입니다.(걸음수 구현)
