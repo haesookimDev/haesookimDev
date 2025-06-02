@@ -1,6 +1,7 @@
 
 - AI 에이전트 (코드 에이전트) 개발
 - LLM 응용 프로그램 개발 (브라우저 자동화)
+- (개인) AI 웹 검색엔진 개발
 
 <div align=center><h3>📚 Main STACKS</h1></div>
   
